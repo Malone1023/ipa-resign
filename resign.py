@@ -73,6 +73,7 @@ class Resign:
 
 if __name__ == '__main__':
     resign = Resign()
+    ipa_path = '/Users/xx/Desktop/git/JoyUnity/joy_tools/scripts/resign/JoyDemo.ipa'
     resign.unzip_ipa(ipa_path)
 
     #itc后台下载 
