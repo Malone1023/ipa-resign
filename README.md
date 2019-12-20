@@ -25,3 +25,7 @@
 security api
 
 https://ss64.com/osx/security.html
+
+
+简书
+https://www.jianshu.com/writer#/notebooks/40095907/notes/56630433
